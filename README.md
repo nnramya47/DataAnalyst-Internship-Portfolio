@@ -21,3 +21,14 @@ Designed a dashboard mock-up with important KPIs.
 # Tools Used: Python, SQL, Excel/Power BI
 link : https://github.com/nnramya47/Task--2
 
+# Task 3 – Deep-Dive Analysis & Interactive Dashboarding
+Objective: Perform detailed analysis and build an interactive dashboard. 
+# What I did:
+Defined key performance indicators (KPIs).
+Conducted in-depth analysis of the dataset.
+Identified important business insights.
+Built an interactive dashboard for data visualization.
+Enabled users to explore data dynamically.
+# Tools Used: Power BI/Tableau, Python, SQL
+link:https://github.com/nnramya47/Task-3
+
