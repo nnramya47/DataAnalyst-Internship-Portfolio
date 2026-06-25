@@ -32,3 +32,14 @@ Enabled users to explore data dynamically.
 # Tools Used: Power BI/Tableau, Python, SQL
 link:https://github.com/nnramya47/Task-3
 
+# Task 4 – Data Storytelling & Statistical Validation
+Objective: Present insights through storytelling and validate findings using statistics. 
+# What I did:
+Created a business-focused presentation.
+Explained insights with charts and visuals.
+Formulated a business hypothesis.
+Performed statistical testing.
+Provided conclusions and recommendations.
+# Tools Used: PowerPoint, Python, Statistics
+link:https://github.com/nnramya47/Task--4
+
